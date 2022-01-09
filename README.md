@@ -1,4 +1,4 @@
-## Ola ! Eu sou o Timoteo Almeida, vamos programar ?
+## Ola ! Eu sou o Timoteo Almeida, trabalho como DBA e tambem programo.
 <div align="center">
   <a href="https://github.com/TimoteoAlmeida">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TimoteoAlmeida&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
