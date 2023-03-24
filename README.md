@@ -9,41 +9,7 @@
 
 <div style="display: inline_block"><br>
  <img align="center" alt="Rafa-Js" height="30" width="40" 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
- <img align="center" alt="Rafa-Js" height="30" width="40"    
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
- <img align="center" alt="Rafa-Js" height="30" width="40"   
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
- <img align="center" alt="Rafa-Js" height="30" width="40"   
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" />
- <img align="center" alt="Rafa-Js" height="30" width="40"   
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
- <img align="center" alt="Rafa-Js" height="30" width="40"   
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" />
- <img align="center" alt="Rafa-Js" height="30" width="40"   
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" />
- <img align="center" alt="Rafa-Js" height="30" width="40"   
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />
- <img align="center" alt="Rafa-Js" height="30" width="40"   
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
- <img align="center" alt="Rafa-Js" height="30" width="40"   
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
- <img align="center" alt="Rafa-Js" height="30" width="40"   
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
- <img align="center" alt="Rafa-Js" height="30" width="40"   
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
- <img align="center" alt="Rafa-Js" height="30" width="40"   
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
- <img align="center" alt="Rafa-Js" height="30" width="40"   
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" />
- <img align="center" alt="Rafa-Js" height="30" width="40"   
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
- <img align="center" alt="Rafa-Js" height="30" width="40"   
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
- <img align="center" alt="Rafa-Js" height="30" width="40"   
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" />
- <img align="center" alt="Rafa-Js" height="30" width="40"   
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+
  </div>
 
 ## 
